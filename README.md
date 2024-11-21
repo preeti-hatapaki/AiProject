@@ -1,18 +1,12 @@
 # AiProject
-Color Flood Game Overview
-Welcome to the Color Flood Game! The goal is to flood the entire grid with a single color in as few moves as possible.
-Game Objective:
-Start from the top-left corner of the grid and gradually flood the entire grid with one color by selecting new colors. Each move changes the color of the top-left corner and any adjacent cells of the same color.
-How to Play:
-At the beginning of the game, the grid is randomly filled with different colors.
-You can select a color using the color buttons below the grid.
-When you select a color, all connected cells of the same color starting from the top-left corner will change to your selected color.
-Continue selecting colors until the entire grid is filled with one color or you run out of moves.
-Rules:
-You have a maximum of 25 moves to flood the entire grid.
-If you flood the grid within the move limit, you win! If not, the game ends.
-AI Mode:
-Click the "AI Move" button to let the AI make the next move. See how efficiently it solves the game!
-Reset:
-You can restart the game with a new random grid anytime by clicking the "Reset" button.
+Color Flood Game
+Overview
+Color Flood is a simple yet engaging game where players aim to flood the entire grid with a single color within a limited number of moves. This project demonstrates the use of flood-fill algorithms and an intuitive GUI created with Python's tkinter. It’s designed for both learning and fun, blending algorithmic logic with user-friendly interface design.
 
+Features
+
+Dynamic Gameplay: Randomly generated grid of colors for endless replayability.
+Flood-Fill Algorithm: Efficient grid coloring with minimal computational overhead.
+Intuitive GUI: Interactive grid, color selection buttons, and status updates.
+AI Assistance: An optional AI move button for automated gameplay.
+Custom Controls: Reset the game anytime to start fresh.
