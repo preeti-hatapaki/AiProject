@@ -1,4 +1,4 @@
-# AiProject
+# Ai Project
 Color Flood Game
 Overview
 Color Flood is a simple yet engaging game where players aim to flood the entire grid with a single color within a limited number of moves. This project demonstrates the use of flood-fill algorithms and an intuitive GUI created with Python's tkinter. It’s designed for both learning and fun, blending algorithmic logic with user-friendly interface design.
